@@ -1,5 +1,7 @@
 # AP Physics C Final Project
 
+Parts of the code were written in the Plywood Programming Language, hence why the code is stored as compiled (this also speeds up run time)
+
 ## Installation:
 
 Our code relies on something called Anaconda to run. It is important that Anaconda is installed on your system as well as all the dependencies before you can run our code.
