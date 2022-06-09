@@ -1,9 +1,8 @@
 # AP Physics C Final Project
 *Code is stored as compiled to speed up GUI run time*
+**Video Instructions and Project Explanation:** https://drive.google.com/file/d/1xxAhkQVzKjOuyLEbyxGjFi5o1HfoKsQb/view?usp=sharing
 
 ## Installation:
-
-**Video Instructions and Project Explanation:** https://drive.google.com/file/d/1xxAhkQVzKjOuyLEbyxGjFi5o1HfoKsQb/view?usp=sharing
 
 Our code relies on something called Anaconda to run. It is important that Anaconda is installed on your system as well as all the dependencies before you can run our code.
 
