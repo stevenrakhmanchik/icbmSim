@@ -31,3 +31,8 @@ All you have to do to run the code is copy paste the following line into your te
   ``` 
   bash run.sh
   ```
+## Sources
+
+*Would have been impossible if not for the big brain research paper this man wrote. All we had to do was code the formulas in.* https://scienceandglobalsecurity.org/archive/sgs03gronlund.pdf
+
+
