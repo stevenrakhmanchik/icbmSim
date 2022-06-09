@@ -19,7 +19,7 @@ MacOS does not allow users to run shell files by double clicking because that is
 
   - Type "cd " (with a space and then drag the folder that was downloaded on your computer into the terminal window and press enter (this will change the active directory to that folder to make it easier to do the rest, which is pretty basic)
   ``` 
-  cd [drag and drop folder that got downloaded here]
+  cd [drag and drop folder that got downloaded from github here]
   ```
   - Run these commands by copy pasting the following into your terminal together and hitting enter:
   ``` 
