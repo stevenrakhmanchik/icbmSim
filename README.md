@@ -33,6 +33,6 @@ All you have to do to run the code is copy paste the following line into your te
   ```
 ## Sources
 
-*Would have been impossible if not for the big brain research paper this man wrote. All we had to do was code the formulas and algorithms in using the equations this professor came up with* https://scienceandglobalsecurity.org/archive/sgs03gronlund.pdf
+*Would have been impossible if not for the big brain research paper this man wrote. All we had to do was code the formulas and algorithms in using the equations this professor came up with:* https://scienceandglobalsecurity.org/archive/sgs03gronlund.pdf
 
 
