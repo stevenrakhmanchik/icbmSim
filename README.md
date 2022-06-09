@@ -35,4 +35,9 @@ All you have to do to run the code is copy paste the following line into your te
 
 *Would have been impossible if not for the big brain research paper this man wrote. All we had to do was code the formulas and algorithms in using the equations this professor came up with:* https://scienceandglobalsecurity.org/archive/sgs03gronlund.pdf
 
+## Additional Resources and Diagrams:
+
+![fin](https://user-images.githubusercontent.com/48323187/172739954-7c262364-f42b-476d-85ba-96c18b4276ef.png)
+
+
 
