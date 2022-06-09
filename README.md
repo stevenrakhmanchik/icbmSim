@@ -17,7 +17,7 @@ Download or clone our code from github.
 Please do these steps in order to install dependencies for our program.
 MacOS does not allow users to run shell files by double clicking because that is a security loophole that can make it very easy to conduct an attack. Becuase of this, we will be using the "chmod" command to set the .sh file as executable and then running the .sh file via the command line. The rest will be done automatically.
 
-  - Drag the folder that was downloaded on your computer into the window of an empty terminal window and press enter (this will change the active directory to that folder to make it easier to do the rest, which is pretty basic)
+  - Type "cd " (with a space and then drag the folder that was downloaded on your computer into the terminal window and press enter (this will change the active directory to that folder to make it easier to do the rest, which is pretty basic)
   - Run these commands by copy pasting the following into your terminal together and hitting enter:
   ``` 
   chmod +x install.sh
