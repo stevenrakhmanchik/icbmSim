@@ -1,6 +1,5 @@
 # AP Physics C Final Project
-
-Parts of the code were written in the Plywood Programming Language, hence why the code is stored as compiled (this also speeds up run time)
+*Code is stored as compiled to speed up GUI run time*
 
 ## Installation:
 
