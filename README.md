@@ -1,6 +1,9 @@
 # AP Physics C Final Project
 **Video Instructions and Project Explanation:** 
 
+**EDITED FINAL SOURCE CODE ON MONDAY JUNE 13, 2022 WITH .git FILE, FINAL RELEASE WAS NOT MODIFIED.**
+
+
 ## Installation:
 
 Follow the installation instructions under **ICBM Simulator** in releases on the right of this page. 
