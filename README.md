@@ -9,6 +9,12 @@
 Follow the installation instructions under **ICBM Simulator** in releases on the right of this page. 
 If you get an "Unknown Developer" error, you have to right click the app and click open to force it to run.
 
+## Uninstall:
+```
+sudo rm -r ~/miniconda
+```
+You will have to enter your password since some of the files are write-protected
+
 ## Information:
 
 For our final project, we created an ICBM simulator. This simulator allows the user to pick a rocket (including DPRK - Nodong-A, DPRK - Nodong-A1, DPRK - Nodong-B, DPRK - TD-1, DPRK - TD-2, Germany - V2, Israel - Jericho-I, Israel - Jericho-II, Israel - Jericho-III, Iran - Qased2, Iran - Qased5, Iraq - Al-Husayn, Russia - Scud-B), these missiles have well-known specs and are used across the board for most educational simulations (as we found while researching on them) for which the payload weight, RV diameter, total nozzle area, nosecone (length/diameter), and missile diameter are built in and will appear when the user selects one. The user must also put in the dimensions they want for the fins (including number of fins, fin span, sweep angle, fin tip chord, fin root chord, and fin thickness). The trajectory type, nosecone type, estimated range, and number of stages must also be inputted through the parameter page.
